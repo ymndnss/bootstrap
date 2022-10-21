@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+header{
+    background-color: rgba(65, 72, 158, 0.61);
+    height: 200px;
+    margin-bottom: 50px;
+}
+body{
+    background-color: rgb(157, 96, 236);
+    font-family: 'Oswald', sans-serif;
+}
+footer{
+    background-color: rgba(65, 72, 158, 0.61);
+    height: 200px;
+    margin-top: 50px;
+    font-size: 3em;
+}
+a{
+    font-size: 3em;
+    text-transform: uppercase;
+    text-decoration: dashed;
+    color: chocolate;
+    padding: 10px;
+}
+a:hover{
+    color: burlywood;
+}
